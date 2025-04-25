@@ -626,7 +626,7 @@ header .continer .social i {
 .statistcs {
 
     padding: 70px 0;
-    background-image: url(/images/st-bg.jpg);
+    background-image: url(./images/st-bg.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
